@@ -1,0 +1,30 @@
+#nameTag{
+    text-align:center;
+}
+
+.container-fluid{
+    background-color: lightGray;
+}
+
+h1{
+    text-align: center;
+}
+
+
+#hi{
+    font-family: 'Oswald', sans-serif;
+    font-size: 5em;
+    color: black;
+}
+
+#myNameIs{
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 4em;
+    color:black;
+}
+
+#ed{
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 4em;
+    color:black;
+}

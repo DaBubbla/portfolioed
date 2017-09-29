@@ -12,6 +12,7 @@ h1{
 
 
 #hi{
+    cursor:pointer;
     font-family: 'Oswald', sans-serif;
     font-size: 5em;
     color: black;
